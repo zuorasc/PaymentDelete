@@ -1,0 +1,7 @@
+C:\Users\mdemin\AppData\Local\Temporary Projects\PaymentDelete\bin\Debug\PaymentDelete.exe.config
+C:\Users\mdemin\documents\visual studio 2010\Projects\PaymentDelete\PaymentDelete\bin\Debug\PaymentDelete.exe.config
+C:\Users\mdemin\documents\visual studio 2010\Projects\PaymentDelete\PaymentDelete\bin\Debug\PaymentDelete.exe
+C:\Users\mdemin\documents\visual studio 2010\Projects\PaymentDelete\PaymentDelete\bin\Debug\PaymentDelete.pdb
+C:\Users\mdemin\documents\visual studio 2010\Projects\PaymentDelete\PaymentDelete\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mdemin\documents\visual studio 2010\Projects\PaymentDelete\PaymentDelete\obj\x86\Debug\PaymentDelete.exe
+C:\Users\mdemin\documents\visual studio 2010\Projects\PaymentDelete\PaymentDelete\obj\x86\Debug\PaymentDelete.pdb
